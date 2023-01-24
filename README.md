@@ -1,7 +1,7 @@
 <div>
-  <span align="center">Manuel Dembo!!!</span>
-  <span align="center">Desenvolvedor de software, focado no desenvolvimento Web</span>
-  <span align="center">I LOVE CODE💖</span>
+  <h1 align="center">Manuel Dembo!!!</h1>
+  <h1 align="center">Desenvolvedor de software, focado no desenvolvimento Web</h1>
+  <h1 align="center">I LOVE CODE💖</h1>
 </div>
 
   <div align="center">
@@ -25,4 +25,4 @@
     <a href = "mailto:madembo18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e88800&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=474a51&height=100&section=footer"/>
