@@ -1,6 +1,8 @@
-  Sou Manuel Dembo! Estudante de ciência de conputação.
-
-  I LOVE CODE💖
+<div>
+  <span align="center">Manuel Dembo!!!</span>
+  <span align="center">Desenvolvedor de software, focado no desenvolvimento Web</span>
+  <span align="center">I LOVE CODE💖</span>
+</div>
 
   <div align="center">
     <a href="https://github.com/manueldembo">
