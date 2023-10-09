@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Manuel Dembo!!!</h1>
-  <h5 align="center">Desenvolvedor de software, focado no desenvolvimento Web</h5>
+  <h1 align="center">Manuel Dembo</h1>
+  <h5 align="center">Software Developer</h5>
   <h5 align="center">I LOVE CODE💖</h5>
 </div>
 
